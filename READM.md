@@ -1,4 +1,3 @@
-# Assignment1
 Christopher Galdi
 2299616
 galdi@chapman.edu
